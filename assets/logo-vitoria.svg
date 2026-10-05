@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 160" role="img" aria-labelledby="title desc">
+  <title id="title">Vitória Mármores e Granito</title>
+  <desc id="desc">Logotipo com monograma V inspirado no corte de pedras naturais.</desc>
+  <g fill="none">
+    <path d="M80 9 151 80 80 151 9 80Z" stroke="#d98760" stroke-width="2"/>
+    <path d="M80 22 138 80 80 138 22 80Z" stroke="#fbfaf6" stroke-opacity=".36"/>
+    <path d="m42 43 38 78 38-78" stroke="#fbfaf6" stroke-width="11" stroke-linecap="square" stroke-linejoin="miter"/>
+    <path d="M18 91c23-11 34-7 49-22 17-16 27-17 64-11" stroke="#d98760" stroke-width="2.5" stroke-linecap="round"/>
+  </g>
+  <text x="176" y="82" fill="#fbfaf6" font-family="Georgia, 'Times New Roman', serif" font-size="64" font-weight="600" letter-spacing="-2">Vitória</text>
+  <path d="M178 96h330" stroke="#d98760" stroke-width="1"/>
+  <text x="178" y="120" fill="#fbfaf6" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="5">MÁRMORES &amp; GRANITO</text>
+</svg>
